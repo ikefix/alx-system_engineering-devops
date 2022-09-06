@@ -1,0 +1,2 @@
+#!/bin/bansh
+grep -v "bin" /etc/passwd
